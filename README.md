@@ -1,4 +1,4 @@
-Paper Recommend Autodriving-Heart
+## Paper Recommend Autodriving-Heart
 
 在自动驾驶之心平台的论文推荐专栏文章列表整理。
 
@@ -140,3 +140,8 @@ Paper Recommend Autodriving-Heart
 | 2022-09-09 | CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion | CAMO-MOT：基于LiDAR-Camera 融合的3D 多目标跟踪优化方法       | https://zhuanlan.zhihu.com/p/562755238 | https://arxiv.org/pdf/2209.02540v2.pdf                      |                                                     |
 | 2022-09-08 | DeepInteraction: 3D Object Detection via Modality Interaction | DeepInteraction：通过模态交互进行 3D 对象检测                | https://zhuanlan.zhihu.com/p/562386666 | https://arxiv.org/pdf/2208.11112v2.pdf                      | https://github.com/fudan-zvg/DeepInteraction        |
 
+## Postscript
+
+This repository was mainly written by Rujia Wang.
+
+If you have any questions about the paper list, please do not hesitate to email [me](a3081246384@163.com) or open an issue on GitHub.
